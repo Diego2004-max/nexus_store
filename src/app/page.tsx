@@ -11,7 +11,7 @@ export default function HomePage() {
           Nexus Hardware & Tech
         </h1>
         <p className="text-slate-400 text-lg mb-8">
-          Plataforma global de componentes de ingeniería y licencias de software ejecutando múltiples patrones de renderizado.
+          Plataforma global de componentes de ingeniería y licencias de software.
         </p>
         <div className="flex justify-center gap-4">
           <Link
